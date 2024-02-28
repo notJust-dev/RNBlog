@@ -27,6 +27,6 @@
       "bundler": "metro",
       "output": "static"
     },
-    "plugins": ["expo-router"]
+    "plugins": [["expo-router", { "origin": "https://rn-blog.vercel.app/" }]]
   }
 }
